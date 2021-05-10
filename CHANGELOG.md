@@ -1,0 +1,1 @@
+- Improves error handling for the throttler queue, to better diagnose Hosting deploys that fail during the file upload step.
