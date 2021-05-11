@@ -5,7 +5,7 @@ The Firebase Command Line Interface (CLI) Tools can be used to test, manage, and
 - Deploy code and assets to your Firebase projects
 - Run a local web server for your Firebase Hosting site
 - Interact with data in your Firebase database
-- Import/Export users into/from Firebase Auth
+- Imports/Exports users into/from Firebase Auth
 
 To get started with the Firebase CLI, read the full list of commands below or check out the [documentation](https://firebase.google.com/docs/cli).
 
